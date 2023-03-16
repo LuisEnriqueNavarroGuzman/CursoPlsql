@@ -1,5 +1,6 @@
 /*
     GRANT privileges ON object TO user;
+    REVOKE privileges ON object FROM user;
 
     Privilege	Description
     SELECT	    Ability to perform SELECT statements on the table.
